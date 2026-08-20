@@ -1,0 +1,18 @@
+
+     __          ___      .__   __.   _______      _______. _______ .______     ____    ____  _______
+    |  |        /   \     |  \ |  |  /  _____|    /       ||   ____||   _  \    \   \  /   / |   ____|
+    |  |       /  ^  \    |   \|  | |  |  __     |   (----`|  |__   |  |_)  |    \   \/   /  |  |__
+    |  |      /  /_\  \   |  . `  | |  | |_ |     \   \    |   __|  |      /      \      /   |   __|
+    |  `----./  _____  \  |  |\   | |  |__| | .----)   |   |  |____ |  |\  \----.  \    /    |  |____
+    |_______/__/     \__\ |__| \__|  \______| |_______/    |_______|| _| `._____|   \__/     |_______|
+    
+[1;32;40mLANGSERVE:[0m Playground for chain "/chain/" is live at:
+[1;32;40mLANGSERVE:[0m  │
+[1;32;40mLANGSERVE:[0m  └──> /chain/playground/
+[1;32;40mLANGSERVE:[0m
+[1;32;40mLANGSERVE:[0m See all available routes at /docs/
+INFO:     ::1:63881 - "GET / HTTP/1.1" 404 Not Found
+INFO:     ::1:50157 - "POST /chain/invoke HTTP/1.1" 200 OK
+INFO:     ::1:59781 - "POST /chain/invoke HTTP/1.1" 200 OK
+INFO:     ::1:51763 - "POST /chain/invoke HTTP/1.1" 200 OK
+INFO:     ::1:58717 - "POST /chain/invoke HTTP/1.1" 200 OK
